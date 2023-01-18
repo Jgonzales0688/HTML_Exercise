@@ -15,7 +15,7 @@ Steps are to be completed under the div with `id="exercise1"`
 
 1. Create a **heading 1** element that contains your name between opening and closing tags
 2. Create a **paragraph** element that contains a bio about yourself
-
+*** DONE
 ## Exercise 2
 
 Steps are to be completed under the div with `id="exercise2"`
@@ -27,7 +27,7 @@ Steps are to be completed under the div with `id="exercise2"`
    - The first **anchor** element should link to your _LinkedIn profile_
    - The second **anchor** element should link to the _TrueCoders homepage_
    - The third **anchor** element should link to your _most visited website_
-
+**** DONE
 ## Exercise 3
 
 Steps are to be completed under the div with `id="exercise3"`
@@ -35,7 +35,7 @@ Steps are to be completed under the div with `id="exercise3"`
 1. Create an **image** element
 2. Add an **src** attribute with a _relative path_ value that points to the `./images/example.png` file
 3. Add an **alt** attribute with a _text description_ value of the image
-
+***DONE
 ## Exercise 4
 
 Steps are to be completed under the div with `id="exercise4"`
@@ -52,13 +52,13 @@ Steps are to be completed under the div with `id="exercise5"`
 
 1. Edit the blog post so that more _semantically meaningful_ elements are used instead of generic **division** containers.
    - You will need to use
-     - **one main element**
-     - **three section elements**
-     - **one article element**
-     - **one header element**
-     - **two nav element**
-     - **two unordered list element**
-     - **five list item elements**
-     - **five anchor elements**
-     - **one footer element**
+     - **one main element** --DONE
+     - **three section elements** --DONE
+     - **one article element**  -DONE
+     - **one header element**  --DONE
+     - **two nav element** --DONE 
+     - **two unordered list element** --DONE
+     - **five list item elements** --DONE
+     - **five anchor elements** --DONE
+     - **one footer element** --DONE
    - To be completed, you should have no more than **three division elements** and **zero span elements** (not including the div with `id="exercise5"`)
